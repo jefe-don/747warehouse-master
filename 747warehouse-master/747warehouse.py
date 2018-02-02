@@ -68,4 +68,4 @@ try:
 		print "Could not enter"
 		print dictionary
 except:
-	print "All accounts entered"
+	print "Soft Ban, Try Again in a Bit"
